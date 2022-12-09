@@ -5,8 +5,8 @@ codded in bash
 
 ┌──(kali㉿@)-[~]
 └─$ ./log4j.sh
-Enter domain example.com
-Enter a value to use for the jndi placeholder: {{paste your log4j canary token}}
+- Enter domain example.com
+- Enter a value to use for the jndi placeholder: {{paste your log4j canary token}}
 
 how you get canary token 
 1: go to https://canarytokens.org/generate 
